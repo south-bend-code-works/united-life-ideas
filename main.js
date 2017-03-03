@@ -7,10 +7,18 @@ function openNav() {
   });
 }
 
+
+function agreeSub() {
+  alert($('#SugNew').val());
+  alert($('#email').val());
+}
+
 function init() {
   $("#open").on('click', openNav);
+  $("#agreeBtn").on('click', agreeSub)
   $("#close").on('click', closeNav);
   $("#sidebar-will").hide();
+  $('.modal').modal();
 }
 
 $(document).ready(init);
