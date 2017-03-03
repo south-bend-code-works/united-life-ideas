@@ -1,3 +1,19 @@
+#ti,#vid {
+  text-align: center;
+}
+
+#karla,#derek,#peter,#will {
+  text-align: center;
+}
+
+#Peter {
+  text-align: center;
+}
+
+#Derek,#Peter,#paren {
+  text-align: center;
+}
+
 .left-life  {
   width:20%;
   display: inline-block;
