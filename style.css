@@ -1,0 +1,210 @@
+.left-life  {
+  width:20%;
+  display: inline-block;
+}
+
+.right-life  {
+  width:28%;
+  display: inline-block;
+}
+
+#beginning {
+  background-image: url("tire.jpg");
+  margin-left: 30%;
+  width: 500px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  margin-top: -40px;
+}
+
+#title {
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Old Standard TT', serif;
+}
+
+#mission {
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Cinzel', serif;
+  font-size: 35px;
+}
+
+#united{
+  text-align: center;
+  font-weight: bold;
+  font-family:  'Cinzel', serif;
+  font-size: 55px;
+}
+
+#list {
+  padding-left: 30%;
+  padding-right: 10%;
+  font-size: 20px;
+}
+
+#steps{
+  font-size: 24px;
+ font-family: 'Source Code Pro', monospace;
+}
+
+body{
+  margin: 0 auto;
+  font-family: 'Cincel', serif;
+}
+
+#Popular {
+  width: 100%;
+  text-align: center;
+}
+
+.PopularRow {
+  display: inline-block;
+  width: 30%;
+}
+
+#Title {
+  text-align: center;
+  font-weight: bold;
+  font-family:  'Cinzel', serif;
+  font-size: 55px;
+}
+
+#Title h1{
+  margin-top: 0;
+}
+
+#united{
+  margin-top: 0;
+}
+
+#mission{
+  margin-top: 0;
+}
+
+#sidebar-will {
+  border-right: solid;
+  border-width: 5px
+}
+
+.right-will {
+  margin-left: 0px;
+}
+
+.left-will {
+  width: 0px;
+  overflow-x:hidden;
+  height:100%;
+  top:0;
+  left:0;
+  bottom:0;
+  position: fixed;
+}
+
+/* Having issues here making every website center */
+
+#Derek,#Peter {
+  text-align: center;
+}
+
+/* End of issue */
+
+.people {
+  display: inline-block;
+  width: 100%;
+  height: 300px;
+  padding-left: 17.5%;
+}
+
+#peter {
+  width: 20%;
+  height: 90%;
+  border-right: 2px solid black;
+  display: inline-block;
+  float:left;
+}
+
+#will {
+  width: 20%;
+  height: 90%;
+  display: inline-block;
+  float:left;
+
+}
+
+#karla {
+  width: 20%;
+  height: 90%;
+  border-right: 2px solid black;
+  display: inline-block;
+  float:left;
+
+}
+
+#derek {
+  width: 20%;
+  height: 90%;
+  border-right: 2px solid black;
+  display: inline-block;
+  float:left;
+
+}
+
+.profile {
+  border: 2px solid black;
+  border-radius: 100%;
+}
+
+.pics{
+  width=100%;
+  height=300px;
+}
+/*
+#left-arrow{
+  display:inline-block;
+}
+#middle-content{
+  display:inline-block;
+  height:315px;
+}
+#right-arrow{
+  display:inline-block;
+
+}
+.text{
+  text-align: center;
+}
+#la{
+  width: 25%;
+  margin: 0 auto;
+  display: table;
+}
+
+#ra{
+  width: 25%;
+  margin: 0 auto;
+  display: table;
+}
+*/
+
+#dodo{
+  display: block;
+  margin: auto;
+  width: 25%;
+}
+
+
+#logo{
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
+.carousel .carousel-item {
+  width:300px !important;
+}
+
+.carousel {
+  height:500px;
+}
