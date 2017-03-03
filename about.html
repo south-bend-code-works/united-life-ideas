@@ -13,24 +13,49 @@
         <link rel="stylesheet" href="style.css">
         <!--Let browser know website is optimized for mobile-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script src="main.js"></script>
     </head>
 
-    <body id="Peter">
+    <body>
+
+      <!--"Amber lighten-5", is the color favored by the group.-->
+        <body class="amber lighten-5">
+
+          <div id="modal1" class="modal">
+              <div class="modal-content">
+                <h4>Suggest New</h4>
+                <input id="SugNew">
+                <h5>Email Address</h5>
+                <input type="email" id="email">
+              </div>
+              <div class="modal-footer">
+                <button href="#!" id="agreeBtn" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</button>
+              </div>
+            </div>
+
+          <!--
+            <button id="open"><i class="small material-icons">menu</i></button>-->
+            <!-- Button goes on the outside of the sidebar -->
+        <button id="open" class="btn-floating btn-large waves-effect waves-cyan"><i class="material-icons">></i></button>
+
+    <!-- Sidebar and it's links -->
+    <div class="amber lighten-4 left-will" id="sidebar-will">
+        <button id="close" class="btn-floating btn-large waves-effect waves-cyan"><i class="material-icons"><</i></button>
+        <a href="Homepage.html"><h3 class="grey-text text-darken-4">Home</h3></a>
+        <a href="#modal1"><h3 class="grey-text text-darken-4">Suggest New</h3></a>
+          <a href="Categories.html"><h3 class="grey-text text-darken-4">Categories</h3></a>
+        <a href="AboutUs.html"><h3 class="grey-text text-darken-4">About Us</h3></a>
+    </div>
+
+    <div class="black fade-background">
+    <!-- End of Sidebar and it's Links -->
+
+    <!-- Website -->
+  <div class="amber lighten-5 right-will">
+
+    <div id="Peter"
       <div id="top">
-        
-        <div id="modal1" class="modal">
-          <div class="modal-content">
-            <h4>Suggest New</h4>
-            <input id="SugNew">
-            <h5>Email Address</h5>
-            <input type="email" id="email">
-          </div>
-          
-          <div class="modal-footer">
-            <button href="#!" id="agreeBtn" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</button>
-          </div>
-        </div>
-        <h1>United Life Ideas</h1>
+        <h1 id="Title">United Life Ideas</h1>
         <h4>Where People Can Come To Learn Basic Skills That Will Prove Useful In Everyday Life
       </div>
       <div id="ti">
@@ -70,6 +95,7 @@
           <p>"The greatest pleasure in life is doing what people say you cannot do."</p>
         </div>
       </div>
+    </div>
 
     </body>
 
