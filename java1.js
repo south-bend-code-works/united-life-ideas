@@ -9,7 +9,7 @@ $(document).ready(function(){
    });
 
    $("#b2").on('click', function() {
-     location = "HowTo2.html";
+     location = "howto.html";
    });
 
    $("#b3").on('click', function() {
