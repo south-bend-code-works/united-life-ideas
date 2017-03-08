@@ -9,8 +9,8 @@ function openNav() {
 
 
 function agreeSub() {
-  alert($('#SugNew').val());
-  alert($('#email').val());
+  // alert($('#SugNew').val());
+  // alert($('#email').val());
 }
 
 function init() {
