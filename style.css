@@ -225,3 +225,12 @@ h1#Title{
 .carousel {
   height:500px;
 }
+
+#comments {
+  text-align:center;
+  font-size: 24px;
+  font-family: 'Source Code Pro', monospace;
+}
+}
+
+  
