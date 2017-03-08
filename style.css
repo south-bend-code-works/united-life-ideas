@@ -226,7 +226,7 @@ h1#Title{
   height:500px;
 }
 
-#comments {
+.comments {
   text-align:center;
   font-size: 24px;
   font-family: 'Source Code Pro', monospace;
