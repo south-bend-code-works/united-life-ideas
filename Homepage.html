@@ -22,20 +22,41 @@
      <link href="https://fonts.googleapis.com/css?family=Cinzel|Dancing+Script|Dosis|Old+Standard+TT" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css?family=Catamaran" rel="stylesheet">
       <script src="java1.js"></script>
+      <script src="main.js"></script>
 
       <link rel="stylesheet" href="style.css">
     </head>
 
       <body id="Derek"><!-- Sidebar and it's links -->
-<div class="amber lighten-4 left-will" id="sidebar-will">
-    <button id="close" class="btn-floating btn-large waves-effect waves-cyan"><i class="material-icons"><</i></button>
+
+      <div id="modal1" class="modal">
+          <div class="modal-content">
+            <h4>Suggest New</h4>
+            <input id="SugNew">
+            <h5>Email Address</h5>
+            <input type="email" id="email">
+          </div>
+          <div class="modal-footer">
+            <button href="#!" id="agreeBtn" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</button>
+          </div>
+        </div>
+
+
+    <div class="amber lighten-4 left-will" id="sidebar-will">
+    <div style="text-align: left;">
+    <button id="close" class="btn-floating btn-large waves-effect waves-cyan"><i class="material-icons">keyboard_arrow_left</i></button>
+    </div>
     <a href="Homepage.html"><h3 class="grey-text text-darken-4">Home</h3></a>
-    <a href="#model1"><h3 class="grey-text text-darken-4">Suggest New</h3></a>
+    <a href="#modal1"><h3 class="grey-text text-darken-4">Suggest New</h3></a>
       <a href="Categories.html"><h3 class="grey-text text-darken-4">Categories</h3></a>
     <a href="AboutUs.html"><h3 class="grey-text text-darken-4">About Us</h3></a>
       </div>
-        
+
+        <div class="black fade-background">
+
         <div class="amber lighten-5 right-will">
+        <button id="open" class="left btn-floating btn-large waves-effect waves-cyan"><i class="material-icons">keyboard_arrow_right</i></button>
+
 
         <div class="text">
 
@@ -109,6 +130,7 @@
             </div>
           </div>
         </div>
+      </div>
       </div>
   </body>
 
