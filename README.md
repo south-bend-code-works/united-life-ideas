@@ -34,6 +34,8 @@ Peter: I was involved in the foundation.
 #### What development and/or design work were you responsible for contributing?
 Peter: Particulary the About Us page and also some of the life skills guides.
 
+Karla- At the begining i made the sub categori3es page, where it list all the automotive things or home things depending on what you click on. I then started creating the steps that are listed on oone of the how to's. I also did a lot of styling with Will A. We decided on the colors that we would use and the fonts we used for the page. 
+
 
 #### Is there anything that you did not have the time/ resources to develop for your app but that you are still working towards? (aka the opposite of MVP)
 Peter: For sure the individual life skills guides.
