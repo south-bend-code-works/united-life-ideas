@@ -21,6 +21,8 @@ Peter: It is designed for ones without any knowledge of simple life skills and h
 #### What local/world problem is your app working to solve?
 Peter: To educate people of basic life skills that everyone should know how to do.
 
+William - "The issue we are trying to solve is that most teens and adults around the age of 16 to 25 don't know how to simple things such as tie a tie or changing a tire. We are working to solve it with this app by explain those topics.
+
 
 #### Include your mission statement
 
