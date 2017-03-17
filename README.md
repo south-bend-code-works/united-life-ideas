@@ -73,10 +73,14 @@ Karla: What I took away from this experience is a new way to look at websiite an
 
 William - "From this class, I learned the basics to websites and how they are developed. I learned how to make html, ccs, and a little bit of java script."
 
+Peter: What I took away from this class was more experience in a group-environment and also coding experience in general. I was somewhat experienced but I think that this has opened up a whole 'nother world.
+
 #### What you learned and why that lesson was valuable
 Karla: I learned how to design a wesite and how to start the layout of a webpage it was valuable because our generatiuon is moving into technology and being able to have a job or even an opportunity that deals with something you enjoy doing is beyond amazing.
 
 William - "From the class I learned how to make html, css, and java script. This is vauable because this can be used to show employers that we have experience in the field to find jobs easier."
+
+Peter: I learned mostly about classes and much about functions. I'm not interested in entering the workforce with this coding experience, though I think that this has tought me more about general reasoning.
 
 #### Thank you for listening! Are there any questions?
 
